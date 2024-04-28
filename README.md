@@ -1,2 +1,2 @@
 # my personal website?
-(why is it saying css instead of html??)
+(oh it woeked this time,also this probably won't work on microsoft edge,reason? i don't know )
